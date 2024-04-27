@@ -1,3 +1,9 @@
+In addition to the code provided by Microsoft, this repository will be set up with bootable images for use with 86Box and Virtualbox. Organization/layout for future 'releases' <b>(if any)</b> is still being decided. At the moment everything will go into v4-builds. For now, my first priority is to get something bootable out the door and into people's hands for them to play with as well. 
+
+The source herein contains fixes by [Neozeed](https://github/neozeed/dos400) and cleanup by [Starfrost](https://starfrost.net) 
+<br>Original README.md follows:
+
+---
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="MS-DOS logo" src="https://github.com/Microsoft/MS-DOS/blob/main/.readmes/msdos-logo.png">   
 
 # MS-DOS v1.25, v2.0, v4.0 Source Code
