@@ -1,6 +1,6 @@
 In addition to the code provided by Microsoft, this repository will be set up with bootable images for use with 86Box and Virtualbox. Organization/layout for future 'releases' <b>(if any)</b> is still being decided. At the moment everything will go into -releases. For now, my first priority is to get something bootable out the door and into people's hands for them to play with as well. 
 
-The source herein contains fixes by [Neozeed](https://github/neozeed/dos400) and cleanup by [Starfrost](https://starfrost.net) 
+The source herein contains misc fixes from [Neozeed](https://github.com/neozeed/dos400) including the MS-DOS 4.01 reconstruction by [hharte](https://github.com/hharte/MS-DOS/)
 
 # MS-DOS v4.0 Source Code
 
